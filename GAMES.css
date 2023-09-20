@@ -1,0 +1,195 @@
+.home {
+  text-decoration: none;
+  height: 8.65%;
+  width: 10.31%;
+  top: 3.85%;
+  left: 44.77%;
+  font-family: var(--font-inter);
+  color: inherit;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.cart,
+.home,
+.september-savings-spotlight,
+.trending {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.cart {
+  text-decoration: none;
+  height: 8.65%;
+  width: 7.66%;
+  top: 4.21%;
+  left: 74.06%;
+  font-family: var(--font-inter);
+  color: inherit;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.september-savings-spotlight,
+.trending {
+  top: 150px;
+  left: 45px;
+  width: 195px;
+  height: 50px;
+}
+.september-savings-spotlight {
+  top: 582px;
+  width: 593px;
+  height: 58px;
+}
+.game1-1-icon {
+  position: absolute;
+  top: 252px;
+  left: 341px;
+  border-radius: var(--br-8xs);
+  width: 233px;
+  height: 210px;
+  object-fit: cover;
+}
+.game1-2-icon,
+.game1-3-icon,
+.game1-4-icon,
+.game1-5-icon,
+.game1-6-icon,
+.game1-7-icon,
+.game1-8-icon {
+  position: absolute;
+  top: 252px;
+  left: 674px;
+  border-radius: var(--br-8xs);
+  width: 233px;
+  height: 210px;
+  object-fit: cover;
+}
+.game1-3-icon,
+.game1-4-icon,
+.game1-5-icon,
+.game1-6-icon,
+.game1-7-icon,
+.game1-8-icon {
+  left: 1007px;
+}
+.game1-4-icon,
+.game1-5-icon,
+.game1-6-icon,
+.game1-7-icon,
+.game1-8-icon {
+  left: 1340px;
+}
+.game1-5-icon,
+.game1-6-icon,
+.game1-7-icon,
+.game1-8-icon {
+  top: 735px;
+  left: 342px;
+}
+.game1-6-icon,
+.game1-7-icon,
+.game1-8-icon {
+  left: 675px;
+  width: 234px;
+}
+.game1-7-icon,
+.game1-8-icon {
+  left: 1008px;
+}
+.game1-8-icon {
+  left: 1341px;
+}
+.cyberpunk-2077,
+.the-last-of,
+.the-witcher-3 {
+  position: absolute;
+  top: 472px;
+  left: 320px;
+  display: inline-block;
+  width: 281px;
+  height: 34px;
+}
+.cyberpunk-2077,
+.the-last-of {
+  left: 653px;
+}
+.cyberpunk-2077 {
+  left: 986px;
+}
+.hitman1 {
+  margin: 0;
+}
+.gta-v,
+.hitman,
+.resident-evil {
+  position: absolute;
+  top: 475px;
+  left: 1319px;
+  display: inline-block;
+  width: 281px;
+  height: 33px;
+}
+.gta-v,
+.resident-evil {
+  top: 966px;
+  left: 318px;
+  height: 34px;
+}
+.gta-v {
+  left: 651px;
+}
+.ghost-of-tsushima {
+  top: 966px;
+  left: 984px;
+  line-height: 36px;
+  width: 281px;
+  height: 76px;
+}
+.games1,
+.ghost-of-tsushima,
+.sign-in,
+.spiderman {
+  position: absolute;
+  display: inline-block;
+}
+.spiderman {
+  top: 969px;
+  left: 1317px;
+  width: 281px;
+  height: 34px;
+}
+.games1,
+.sign-in {
+  height: 8.65%;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sign-in {
+  text-decoration: none;
+  width: 11.95%;
+  top: 4.21%;
+  left: 85.08%;
+  color: inherit;
+  cursor: pointer;
+}
+.games1 {
+  width: 12.27%;
+  top: 3.85%;
+  left: 58.75%;
+}
+.games {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

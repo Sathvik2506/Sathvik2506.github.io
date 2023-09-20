@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="icon" href="public/favicon.ico" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Component2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="div15">
+      <img class="banner-1-icon2" alt="" src="./public/banner-12@2x.png" />
+
+      <img class="vector-icon6" alt="" src="./public/vector.svg" />
+
+      <b class="halo-infinite">HALO INFINITE</b>
+      <img class="vector-icon7" alt="" src="./public/vector1.svg" />
+
+      <img class="vector-icon8" alt="" src="./public/vector2.svg" />
+
+      <a class="home3" href="./Component4.html">Home </a>
+      <a class="cart4" href="./EMPTYCART.html" id="cart">Cart </a>
+      <a class="sign-in3" href="./SIGNIN.html" id="signIn">Sign In</a>
+      <a class="games4" href="./GAMES.html" id="games">Games </a>
+    </div>
+
+    <script>
+      var cart = document.getElementById("cart");
+      if (cart) {
+        cart.addEventListener("click", function (e) {
+          window.location.href = "./EMPTYCART.html";
+        });
+      }
+      
+      var signIn = document.getElementById("signIn");
+      if (signIn) {
+        signIn.addEventListener("click", function (e) {
+          window.location.href = "./SIGNIN.html";
+        });
+      }
+      
+      var games = document.getElementById("games");
+      if (games) {
+        games.addEventListener("click", function (e) {
+          window.location.href = "./GAMES.html";
+        });
+      }
+      </script>
+  </body>
+</html>

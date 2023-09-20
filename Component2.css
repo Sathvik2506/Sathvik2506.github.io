@@ -1,0 +1,95 @@
+.banner-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 12.02%;
+  width: 7.81%;
+  top: 2.4%;
+  right: 87.5%;
+  bottom: 85.58%;
+  left: 4.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.halo-infinite {
+  position: absolute;
+  top: 771px;
+  left: 97px;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-poppins);
+}
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 8.33%;
+  width: 4.69%;
+  top: 81.94%;
+  right: 82.71%;
+  bottom: 9.72%;
+  left: 12.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  right: 90.23%;
+  left: 5.08%;
+  opacity: 0.5;
+}
+.home3 {
+  text-decoration: none;
+  position: absolute;
+  top: 900px;
+  left: 977px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 173px;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cart4 {
+  top: 903px;
+  left: 1467px;
+  width: 129px;
+}
+.cart4,
+.games4,
+.sign-in3 {
+  text-decoration: none;
+  position: absolute;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  height: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.sign-in3 {
+  top: 903px;
+  left: 1652px;
+  width: 200px;
+}
+.games4 {
+  top: 900px;
+  left: calc(50% + 246px);
+  width: 205px;
+}
+.div15 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
